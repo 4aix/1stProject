@@ -31,11 +31,12 @@
    </div>
 
 ## 📑 목차
-[1. 프로젝트 소개](url)<br>
-[2. 데이터 수집 및 분석](url)<br>
-[3. 모델 개발 및 성능 평가](url)<br>
-[4. 웹 서비스 구현](url)<br>
-[5. 프로젝트 결과](url)<br>
+[1. 프로젝트 소개](https://github.com/4aix/1stProject#project-overview)<br>
+[2. 데이터 수집 및 분석](https://github.com/4aix/1stProject#data-preprocessing)<br>
+[3. 모델 개발 및 성능 평가](https://github.com/4aix/1stProject#model-development--performance-evaluation)<br>
+[4. 웹 서비스 구현](https://github.com/4aix/1stProject#web-service-implementation)<br>
+[5. 프로젝트 결과](https://github.com/4aix/1stProject#project-contribution--results)<br>
+[6. 시연 영상](https://github.com/4aix/1stProject#-demo-video)<br>
 
 ## Project-overview
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/1b136187-8dae-420f-9439-138f9a6a1945" />
